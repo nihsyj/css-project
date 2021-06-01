@@ -1,0 +1,25 @@
+{
+  "name": "css-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node-sass": "node-sass",
+    "sass": "node-sass -wr styles/main.scss ./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihsyj/css-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nihsyj/css-project/issues"
+  },
+  "homepage": "https://github.com/nihsyj/css-project#readme",
+  "dependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
